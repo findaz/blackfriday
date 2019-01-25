@@ -1,0 +1,7 @@
+Predicting purchase amount from customer demographics on blackfriday.
+
+See the notebook blackfriday.ipynb
+
+- Data manipuation and visulization.
+- Feature engineering
+- Grdient boosting regression and model tuning
